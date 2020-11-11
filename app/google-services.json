@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "145029613972",
+    "firebase_url": "https://myaudioapi-b35d2.firebaseio.com",
+    "project_id": "myaudioapi-b35d2",
+    "storage_bucket": "myaudioapi-b35d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145029613972:android:024ce1b9e2773878aaa781",
+        "android_client_info": {
+          "package_name": "com.example.myaudioapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145029613972-uuslougg191g8fv031lbalfo74v3f0jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLycXufUlJwraPjbp2deMw1se60hAuO44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145029613972-uuslougg191g8fv031lbalfo74v3f0jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
